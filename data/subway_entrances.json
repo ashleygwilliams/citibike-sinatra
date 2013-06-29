@@ -1,0 +1,1112 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "drex-xx56",
+      "name" : "Subway Entrances",
+      "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+      "averageRating" : 0,
+      "category" : "Transportation",
+      "createdAt" : 1318009626,
+      "description" : "Map of NYC Subway Entrances",
+      "displayType" : "map",
+      "downloadCount" : 1587,
+      "numberOfComments" : 0,
+      "oid" : 341707,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1318009653,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "signed" : false,
+      "tableId" : 243811,
+      "totalTimesRated" : 0,
+      "viewCount" : 16115,
+      "viewLastModified" : 1363729769,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 2978398,
+        "name" : "OBJECTID",
+        "dataTypeName" : "number",
+        "description" : "OBJECTID",
+        "fieldName" : "objectid",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1559864,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 1904,
+          "smallest" : "1",
+          "sum" : "1813560",
+          "null" : 0,
+          "average" : "952.5",
+          "largest" : "1904",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1887"
+          }, {
+            "count" : 19,
+            "item" : "1888"
+          }, {
+            "count" : 18,
+            "item" : "1889"
+          }, {
+            "count" : 17,
+            "item" : "1890"
+          }, {
+            "count" : 16,
+            "item" : "1891"
+          }, {
+            "count" : 15,
+            "item" : "1892"
+          }, {
+            "count" : 14,
+            "item" : "1893"
+          }, {
+            "count" : 13,
+            "item" : "1894"
+          }, {
+            "count" : 12,
+            "item" : "1895"
+          }, {
+            "count" : 11,
+            "item" : "1896"
+          }, {
+            "count" : 10,
+            "item" : "1897"
+          }, {
+            "count" : 9,
+            "item" : "1898"
+          }, {
+            "count" : 8,
+            "item" : "1899"
+          }, {
+            "count" : 7,
+            "item" : "1900"
+          }, {
+            "count" : 6,
+            "item" : "1901"
+          }, {
+            "count" : 5,
+            "item" : "1902"
+          }, {
+            "count" : 4,
+            "item" : "1903"
+          }, {
+            "count" : 3,
+            "item" : "1904"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 2978399,
+        "name" : "Shape",
+        "dataTypeName" : "location",
+        "description" : "Shape",
+        "fieldName" : "shape",
+        "position" : 2,
+        "renderTypeName" : "location",
+        "tableColumnId" : 1559865,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 1904,
+          "smallest" : {
+            "longitude" : "-73.9902719989999",
+            "latitude" : "40.68672833100004"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-73.9881690009999",
+            "latitude" : "40.749832333000086"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-74.00858400099992",
+              "latitude" : "40.714313333000064"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-74.00932800099991",
+              "latitude" : "40.71573633200006"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-74.00842799899993",
+              "latitude" : "40.71453933200007"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-74.00798899999995",
+              "latitude" : "40.71509933300007"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-74.00705799999992",
+              "latitude" : "40.719251333000045"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-74.0069250009999",
+              "latitude" : "40.719888333000085"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-74.00640899899992",
+              "latitude" : "40.70947533200007"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-73.98891899999995",
+              "latitude" : "40.74113433400004"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-73.98634300099991",
+              "latitude" : "40.73998433400004"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-73.98895400099991",
+              "latitude" : "40.74531233400006"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-73.9885419979999",
+              "latitude" : "40.74529033300007"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-73.9843019999999",
+              "latitude" : "40.74335133500006"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-73.9838059999999",
+              "latitude" : "40.74312833500005"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-73.9837379999999",
+              "latitude" : "40.74325733400008"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-73.9821029979999",
+              "latitude" : "40.74564133500007"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-73.98188199999993",
+              "latitude" : "40.746632333000036"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-73.9882879999999",
+              "latitude" : "40.74847733300004"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-73.9881690009999",
+              "latitude" : "40.749832333000086"
+            }
+          } ]
+        },
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 2978400,
+        "name" : "NAME",
+        "dataTypeName" : "text",
+        "description" : "NAME",
+        "fieldName" : "name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1559866,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 1904,
+          "smallest" : "  & Ellis St At S Corner",
+          "null" : 0,
+          "largest" : "Woodhaven Blvd & Queens Blvd At Sw Corner",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Broadway & Warren St At Se Corner"
+          }, {
+            "count" : 19,
+            "item" : "Chambers St & West Broadway At Nw Corner"
+          }, {
+            "count" : 18,
+            "item" : "Church St & Warren St At Nw Corner"
+          }, {
+            "count" : 17,
+            "item" : "Church St & Chambers St At Nw Corner"
+          }, {
+            "count" : 16,
+            "item" : "Varick St & Franklin St At Nw Corner (Downtown Only)"
+          }, {
+            "count" : 15,
+            "item" : "Varick St & North Moore St At Nw Corner (Downtown Only)"
+          }, {
+            "count" : 14,
+            "item" : "William St & Fulton St At Se Corner"
+          }, {
+            "count" : 13,
+            "item" : "Broadway & 23rd St At Se Corner (Uptown Only)"
+          }, {
+            "count" : 12,
+            "item" : "Park Ave & 23rd St At Se Corner (Uptown Only)"
+          }, {
+            "count" : 11,
+            "item" : "Broadway & 28th St At Sw Corner (Downtown Only)"
+          }, {
+            "count" : 10,
+            "item" : "Broadway & 28th St At Ne Corner (Uptown Only)"
+          }, {
+            "count" : 9,
+            "item" : "Park Ave & 28th St At Sw Corner (Downtown Only)"
+          }, {
+            "count" : 8,
+            "item" : "Park Ave & 28th St At Se Corner (Uptown Only)"
+          }, {
+            "count" : 7,
+            "item" : "Park Ave & 28th St At Ne Corner (Uptown Only)"
+          }, {
+            "count" : 6,
+            "item" : "Park Ave & 32nd St At Se Corner (Uptown Only)"
+          }, {
+            "count" : 5,
+            "item" : "Park Ave & 33rd St At Nw Corner (Downtown Only)"
+          }, {
+            "count" : 4,
+            "item" : "Broadway & 32nd St At Nw Corner"
+          }, {
+            "count" : 3,
+            "item" : "Broadway & 34th St At Sw Corner"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 2978401,
+        "name" : "URL",
+        "dataTypeName" : "text",
+        "description" : "URL",
+        "fieldName" : "url",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1559867,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 1904,
+          "smallest" : "http://www.mta.info/nyct/service/",
+          "null" : 0,
+          "largest" : "http://www.mta.info/nyct/service/",
+          "top" : [ {
+            "count" : 20,
+            "item" : "http://www.mta.info/nyct/service/"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 2978402,
+        "name" : "LINE",
+        "dataTypeName" : "text",
+        "description" : "LINE",
+        "fieldName" : "line",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1559868,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 1904,
+          "smallest" : "@",
+          "null" : 0,
+          "largest" : "S",
+          "top" : [ {
+            "count" : 20,
+            "item" : "N-R"
+          }, {
+            "count" : 19,
+            "item" : "F"
+          }, {
+            "count" : 18,
+            "item" : "A-C"
+          }, {
+            "count" : 17,
+            "item" : "E-M-R"
+          }, {
+            "count" : 16,
+            "item" : "G"
+          }, {
+            "count" : 15,
+            "item" : "@"
+          }, {
+            "count" : 14,
+            "item" : "2-5"
+          }, {
+            "count" : 13,
+            "item" : "L"
+          }, {
+            "count" : 12,
+            "item" : "1"
+          }, {
+            "count" : 11,
+            "item" : "4-6-6 Express"
+          }, {
+            "count" : 10,
+            "item" : "D"
+          }, {
+            "count" : 9,
+            "item" : "A-S"
+          }, {
+            "count" : 8,
+            "item" : "7-7 Express"
+          }, {
+            "count" : 7,
+            "item" : "A"
+          }, {
+            "count" : 6,
+            "item" : "6"
+          }, {
+            "count" : 5,
+            "item" : "4"
+          }, {
+            "count" : 4,
+            "item" : "B-D"
+          }, {
+            "count" : 3,
+            "item" : "A-C-B"
+          }, {
+            "count" : 2,
+            "item" : "F-G"
+          }, {
+            "count" : 1,
+            "item" : "6-6 Express"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "displayFormat" : {
+        "plotStyle" : "point",
+        "plot" : {
+          "longitudeId" : 1559865,
+          "descriptionColumns" : [ {
+            "tableColumnId" : 1559866
+          } ],
+          "latitudeId" : 1559864
+        }
+      },
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "drawingInfo.renderer" : {
+            "symbol.url" : "C57B8C5F",
+            "symbol.height" : "9",
+            "symbol.type" : "esriPMS",
+            "symbol.contentType" : "image/png",
+            "symbol.yoffset" : "0",
+            "symbol.xoffset" : "0",
+            "symbol.angle" : "0",
+            "symbol.width" : "11",
+            "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAMCAYAAAC9QufkAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAh9JREFUKJFNzc1Lk3EAwPHv9rzt2fbMx2dOp6bOSEkoKLpmdCgCwewgXusgRHTrFBQUghDRpYsQdBEi1FPYoQ5eioIoKoKkIMl8d9A2dc+eZ7/nZU+nmH/Ah48MMPZgbbRq9FBz97G8NdJ6K+siCVoGXBtUHTv4Tq82AK5Gd3eVp1c7XsoAazvFRdM4AqEgIckEvo1ldbBTqoFbpbtFJ+XLNAIPIeKs/FoFiMkAua4865Uig5bK+aFjhL7g1ecVclqWsFbmQsGikelg6W0RLTGAE1kAyABy0kC362z//sL49YvocY33HzaR9Bh9/TqT5wxE2mDp9TIYx/GkQ7hs22iSDG6FTASf3nzl7s1L3H+0wJWxCcobfzCHCjRCgYh8UNQmlqIIoggjk0KNw4v5We4Nn6ZN8zhRgOk7c9yavo3jCkLNI8A5hOsOnqojfBURg3Q2jxKHRFhFbsCWl8EDJAUID9A8+xAOPYSfABQEsF+XmFt4x8OpGzx5PI/Z2gYArkBRXDxJNDGhQxIfKQ4VgNxRZp49Z3TiLIsfl+nrHSQC9pw6mh5gk2hij4AwiiOpKUauzZKVHZLtgwyPT5E2e1j9tsnI5AxKqhfb9ejKtrP8H/9c3+DUyTNslSqg5QiUBmZripJUxsj3k+xUQDqg9NdFl2OUN34058585+WiXcXMtEBSw97bZc8JMa12yrYgnTbYreySz7aRCg1qlW0A/gHjT9YpSPicUAAAAABJRU5ErkJggg=="
+          },
+          "Basic" : {
+            "copyrightText" : "",
+            "type" : "Feature Layer",
+            "definitionExpression" : "",
+            "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/SubwayEntrancesWM/MapServer/0",
+            "id" : "0",
+            "minScale" : "0",
+            "displayField" : "NAME",
+            "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+            "name" : "SubwayEntrances",
+            "currentVersion" : "10.02",
+            "hasAttachments" : "false",
+            "capabilities" : "Map,Query,Data",
+            "maxScale" : "0",
+            "Spatial Reference wkid" : "102100",
+            "defaultVisibility" : "true",
+            "geometryType" : "esriGeometryPoint"
+          },
+          "Update" : {
+            "Update Frequency" : "As needed"
+          },
+          "drawingInfo" : {
+            "transparency" : "0",
+            "renderer.description" : "",
+            "renderer.type" : "simple",
+            "renderer.label" : ""
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "map" : true
+          }
+        },
+        "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+        "rdfSubject" : "0",
+        "attachments" : [ {
+          "blobId" : "958A587B-B84F-4E19-914D-808C770C0676",
+          "name" : "DOITT_SUBWAY_ENTRANCE.zip",
+          "filename" : "DOITT_SUBWAY_ENTRANCE.zip"
+        } ],
+        "rowIdentifier" : "0",
+        "rdfClass" : ""
+      },
+      "northWest" : {
+        "long" : -74.254320973268,
+        "lat" : 40.9036752268053
+      },
+      "owner" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileLastModified" : 1331656907,
+        "roleName" : "administrator",
+        "screenName" : "NYC OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "southEast" : {
+        "long" : -73.753068134127,
+        "lat" : 40.5121140430551
+      },
+      "tableAuthor" : {
+        "id" : "i7d8-sc4w",
+        "displayName" : "Chris Metcalf",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+        "profileLastModified" : 1370544464,
+        "screenName" : "Chris Metcalf",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+        "flags" : [ "admin" ]
+      },
+      "tags" : [ "jobs and economic mobility", "location", "map", "cartography", "basemap", "transit", "transportation", "train", "subway", "travel", "entrance", "station" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "1", null, null, null, 0, null, null, "1", [ null, "40.68672833100004", "-73.9902719989999", null, false, {
+    "point" : [ -73.9902719989999, 40.68672833100004 ]
+  } ], "Smith St & Bergen St At Ne Corner (To Manhattan And Queens Only)", "http://www.mta.info/nyct/service/", "F-G" ]
+, [ 2, "2", null, null, null, 0, null, null, "2", [ null, "40.69372533200004", "-73.99067800099994", null, false, {
+    "point" : [ -73.99067800099994, 40.69372533200004 ]
+  } ], "Court St & Montague St At Sw Corner", "http://www.mta.info/nyct/service/", "2-3-4-5-N-R" ]
+, [ 3, "3", null, null, null, 0, null, null, "3", [ null, "40.693642331000035", "-73.99059199899995", null, false, {
+    "point" : [ -73.99059199899995, 40.693642331000035 ]
+  } ], "Court St & Montague St At Sw Corner", "http://www.mta.info/nyct/service/", "2-3-4-5-N-R" ]
+, [ 4, "4", null, null, null, 0, null, null, "4", [ null, "40.694393120000086", "-73.9925373559999", null, false, {
+    "point" : [ -73.9925373559999, 40.694393120000086 ]
+  } ], "Clinton St & Montague St At Nw Corner", "http://www.mta.info/nyct/service/", "2-3-4-5-N-R" ]
+, [ 5, "5", null, null, null, 0, null, null, "5", [ null, "40.66272735800004", "-73.96224891499992", null, false, {
+    "point" : [ -73.96224891499992, 40.66272735800004 ]
+  } ], "Flatbush Ave & Empire Blvd At Sw Corner", "http://www.mta.info/nyct/service/", "B-Q-S" ]
+, [ 6, "6", null, null, null, 0, null, null, "6", [ null, "40.67716435300008", "-73.98339416899995", null, false, {
+    "point" : [ -73.98339416899995, 40.67716435300008 ]
+  } ], "4th Ave & Union St At Sw Corner (To Bay Ridge And Coney Island Only)", "http://www.mta.info/nyct/service/", "D-N-R" ]
+, [ 7, "7", null, null, null, 0, null, null, "7", [ null, "40.677051636000044", "-73.98308231199991", null, false, {
+    "point" : [ -73.98308231199991, 40.677051636000044 ]
+  } ], "4th Ave & Union St At Se Corner (To Manhattan Only)", "http://www.mta.info/nyct/service/", "D-N-R" ]
+, [ 8, "8", null, null, null, 0, null, null, "8", [ null, "40.677195091000044", "-73.98298999699995", null, false, {
+    "point" : [ -73.98298999699995, 40.677195091000044 ]
+  } ], "4th Ave & Union St At Se Corner (To Manhattan Only)", "http://www.mta.info/nyct/service/", "D-N-R" ]
+, [ 9, "9", null, null, null, 0, null, null, "9", [ null, "40.680699332000074", "-73.97520899999995", null, false, {
+    "point" : [ -73.97520899999995, 40.680699332000074 ]
+  } ], "Flatbush Ave & Bergen St At Sw Corner (To New Lots And Flatbush Only)", "http://www.mta.info/nyct/service/", "2-3-4" ]
+, [ 10, "10", null, null, null, 0, null, null, "10", [ null, "40.692044114000055", "-73.98621464299993", null, false, {
+    "point" : [ -73.98621464299993, 40.692044114000055 ]
+  } ], "Lawrence St & Willoughby St At Ne Corner", "http://www.mta.info/nyct/service/", "N-R" ]
+, [ 11, "11", null, null, null, 0, null, null, "11", [ null, "40.69225841600007", "-73.9861137709999", null, false, {
+    "point" : [ -73.9861137709999, 40.69225841600007 ]
+  } ], "Lawrence St & Willoughby St At Se Corner", "http://www.mta.info/nyct/service/", "N-R" ]
+, [ 12, "12", null, null, null, 0, null, null, "12", [ null, "40.69044933300006", "-73.98527100199993", null, false, {
+    "point" : [ -73.98527100199993, 40.69044933300006 ]
+  } ], "Hoyt St & Fulton St At Sw Corner (To New Lots And Flatbush Only)", "http://www.mta.info/nyct/service/", "2-3" ]
+, [ 13, "13", null, null, null, 0, null, null, "13", [ null, "40.69089533500005", "-73.98525500099993", null, false, {
+    "point" : [ -73.98525500099993, 40.69089533500005 ]
+  } ], "Bridge St & Fulton St At Ne Corner (To Manhattan Only)", "http://www.mta.info/nyct/service/", "2-3" ]
+, [ 14, "14", null, null, null, 0, null, null, "14", [ null, "40.69044233300008", "-73.98455099799992", null, false, {
+    "point" : [ -73.98455099799992, 40.69044233300008 ]
+  } ], "Duffield St & Fulton St At Nw Corner (To Manhattan Only)", "http://www.mta.info/nyct/service/", "2-3" ]
+, [ 15, "15", null, null, null, 0, null, null, "15", [ null, "40.69040733500009", "-73.98434700099995", null, false, {
+    "point" : [ -73.98434700099995, 40.69040733500009 ]
+  } ], "Duffield St & Fulton St At Ne Corner (To Manhattan Only)", "http://www.mta.info/nyct/service/", "2-3" ]
+, [ 16, "16", null, null, null, 0, null, null, "16", [ null, "40.69209560200005", "-73.98536143699994", null, false, {
+    "point" : [ -73.98536143699994, 40.69209560200005 ]
+  } ], "Bridge St & Willoughby St At Sw Corner", "http://www.mta.info/nyct/service/", "N-R" ]
+, [ 17, "17", null, null, null, 0, null, null, "17", [ null, "40.69223493900006", "-73.98519673699991", null, false, {
+    "point" : [ -73.98519673699991, 40.69223493900006 ]
+  } ], "Bridge St & Willoughby St At Ne Corner", "http://www.mta.info/nyct/service/", "N-R" ]
+, [ 18, "18", null, null, null, 0, null, null, "18", [ null, "40.691508801000055", "-73.98215994499992", null, false, {
+    "point" : [ -73.98215994499992, 40.691508801000055 ]
+  } ], "Flatbush Ave & Fleet St At Ne Corner", "http://www.mta.info/nyct/service/", "B-D-N-Q-R" ]
+, [ 19, "19", null, null, null, 0, null, null, "19", [ null, "40.68392533300005", "-73.97887099999991", null, false, {
+    "point" : [ -73.97887099999991, 40.68392533300005 ]
+  } ], "4th Ave & Pacific St At Nw Corner", "http://www.mta.info/nyct/service/", "2-3-4-5-B-D-N-Q-R" ]
+, [ 20, "20", null, null, null, 0, null, null, "20", [ null, "40.685155114000054", "-73.97774737199995", null, false, {
+    "point" : [ -73.97774737199995, 40.685155114000054 ]
+  } ], "Ashland Pl & Hanson Pl At Ne Corner", "http://www.mta.info/nyct/service/", "2-3-4-5-B-D-N-Q-R" ]
+, [ 21, "21", null, null, null, 0, null, null, "21", [ null, "40.692356595000035", "-73.98619067599992", null, false, {
+    "point" : [ -73.98619067599992, 40.692356595000035 ]
+  } ], "Lawrence St & Willoughby St At Ne Corner", "http://www.mta.info/nyct/service/", "N-R" ]
+, [ 22, "22", null, null, null, 0, null, null, "22", [ null, "40.68111653100004", "-73.99439274999992", null, false, {
+    "point" : [ -73.99439274999992, 40.68111653100004 ]
+  } ], "Smith St & President St At Nw Corner", "http://www.mta.info/nyct/service/", "F-G" ]
+, [ 23, "23", null, null, null, 0, null, null, "23", [ null, "40.67187792200008", "-73.96437533499994", null, false, {
+    "point" : [ -73.96437533499994, 40.67187792200008 ]
+  } ], "Washington Ave & Eastern Pkwy At Sw Corner", "http://www.mta.info/nyct/service/", "2-3-4" ]
+, [ 24, "24", null, null, null, 0, null, null, "24", [ null, "40.67213640600005", "-73.9641521769999", null, false, {
+    "point" : [ -73.9641521769999, 40.67213640600005 ]
+  } ], "Washington Ave & Eastern Pkwy At Nw Corner", "http://www.mta.info/nyct/service/", "2-3-4" ]
+, [ 25, "25", null, null, null, 0, null, null, "25", [ null, "40.67034264900008", "-73.95788689799991", null, false, {
+    "point" : [ -73.95788689799991, 40.67034264900008 ]
+  } ], "Franklin Ave & Eastern Pkwy At Se Corner", "http://www.mta.info/nyct/service/", "2-3-4-5-S" ]
+, [ 26, "26", null, null, null, 0, null, null, "26", [ null, "40.670741031000034", "-73.9576455959999", null, false, {
+    "point" : [ -73.9576455959999, 40.670741031000034 ]
+  } ], "Franklin Ave & Eastern Pkwy At Ne Corner", "http://www.mta.info/nyct/service/", "2-3-4-5-S" ]
+, [ 27, "27", null, null, null, 0, null, null, "27", [ null, "40.681034916000044", "-73.95569777999992", null, false, {
+    "point" : [ -73.95569777999992, 40.681034916000044 ]
+  } ], "Franklin Ave & Fulton St At Sw Corner", "http://www.mta.info/nyct/service/", "A-C-S" ]
+, [ 28, "28", null, null, null, 0, null, null, "28", [ null, "40.67092662500005", "-73.95772031799993", null, false, {
+    "point" : [ -73.95772031799993, 40.67092662500005 ]
+  } ], "Franklin Ave & Eastern Pkwy At Ne Corner", "http://www.mta.info/nyct/service/", "2-3-4-5-S" ]
+, [ 29, "29", null, null, null, 0, null, null, "29", [ null, "40.701321334000056", "-73.98665299999993", null, false, {
+    "point" : [ -73.98665299999993, 40.701321334000056 ]
+  } ], "Jay St & York St At Sw Corner", "http://www.mta.info/nyct/service/", "F" ]
+, [ 30, "30", null, null, null, 0, null, null, "30", [ null, "40.71875307400006", "-73.9882778569999", null, false, {
+    "point" : [ -73.9882778569999, 40.71875307400006 ]
+  } ], "Essex St & Delancey St At Nw Corner", "http://www.mta.info/nyct/service/", "F-J-M-Z" ]
+, [ 31, "31", null, null, null, 0, null, null, "31", [ null, "40.68986468800006", "-73.98136070399994", null, false, {
+    "point" : [ -73.98136070399994, 40.68986468800006 ]
+  } ], "Flatbush Ave & De Kalb Ave At Se Corner", "http://www.mta.info/nyct/service/", "B-D-N-Q-R" ]
+, [ 32, "32", null, null, null, 0, null, null, "32", [ null, "40.587729110000055", "-73.81401044599994", null, false, {
+    "point" : [ -73.81401044599994, 40.587729110000055 ]
+  } ], "Beach 90th St & Rockaway Frwy At Se Corner", "http://www.mta.info/nyct/service/", "A-S" ]
+, [ 33, "33", null, null, null, 0, null, null, "33", [ null, "40.69916149900007", "-73.9889129789999", null, false, {
+    "point" : [ -73.9889129789999, 40.69916149900007 ]
+  } ], "Red Cross Pl & Adams St At Sw Corner", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 34, "34", null, null, null, 0, null, null, "34", [ null, "40.69925855000008", "-73.98827070499993", null, false, {
+    "point" : [ -73.98827070499993, 40.69925855000008 ]
+  } ], "Sands St & Adams St At Se Corner", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 35, "35", null, null, null, 0, null, null, "35", [ null, "40.69260441200004", "-73.9906022859999", null, false, {
+    "point" : [ -73.9906022859999, 40.69260441200004 ]
+  } ], "Court St & Joralemon St At Ne Corner", "http://www.mta.info/nyct/service/", "2-3-4-5-N-R" ]
+, [ 36, "36", null, null, null, 0, null, null, "36", [ null, "40.70534033300004", "-73.81182900099992", null, false, {
+    "point" : [ -73.81182900099992, 40.70534033300004 ]
+  } ], "144-01 Hillside Avenue", "http://www.mta.info/nyct/service/", "F" ]
+, [ 37, "37", null, null, null, 0, null, null, "37", [ null, "40.63504233400005", "-73.96278299999994", null, false, {
+    "point" : [ -73.96278299999994, 40.63504233400005 ]
+  } ], "1515 Foster Avenue (Enter From Newkirk Ave Pz)", "http://www.mta.info/nyct/service/", "B-Q" ]
+, [ 38, "38", null, null, null, 0, null, null, "38", [ null, "40.752219333000085", "-73.92764099899995", null, false, {
+    "point" : [ -73.92764099899995, 40.752219333000085 ]
+  } ], "37-01 36 Street (To Manhattan And Brooklyn Only)", "http://www.mta.info/nyct/service/", "E-M-R" ]
+, [ 39, "39", null, null, null, 0, null, null, "39", [ null, "40.636375333000046", "-73.9946119999999", null, false, {
+    "point" : [ -73.9946119999999, 40.636375333000046 ]
+  } ], "4902 12 Avenue", "http://www.mta.info/nyct/service/", "D" ]
+, [ 40, "40", null, null, null, 0, null, null, "40", [ null, "40.71261233200005", "-74.00822399999993", null, false, {
+    "point" : [ -74.00822399999993, 40.71261233200005 ]
+  } ], "1 Barclay Street (Enter On Park Place)", "http://www.mta.info/nyct/service/", "2-3-A-C-E" ]
+, [ 41, "41", null, null, null, 0, null, null, "41", [ null, "40.683677439000064", "-73.96711601699991", null, false, {
+    "point" : [ -73.96711601699991, 40.683677439000064 ]
+  } ], "486 Clinton Avenue (To Manhattan Only)", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 42, "42", null, null, null, 0, null, null, "42", [ null, "40.62456419800009", "-73.97577719499992", null, false, {
+    "point" : [ -73.97577719499992, 40.62456419800009 ]
+  } ], "1175 Mc Donald Avenue", "http://www.mta.info/nyct/service/", "F" ]
+, [ 43, "43", null, null, null, 0, null, null, "43", [ null, "40.70097087900007", "-73.81629903399994", null, false, {
+    "point" : [ -73.81629903399994, 40.70097087900007 ]
+  } ], "135-02 89 Avenue", "http://www.mta.info/nyct/service/", "E" ]
+, [ 44, "44", null, null, null, 0, null, null, "44", [ null, "40.74655506100004", "-73.89071415299992", null, false, {
+    "point" : [ -73.89071415299992, 40.74655506100004 ]
+  } ], "40-02 75 Street", "http://www.mta.info/nyct/service/", "7-E-F-M-R" ]
+, [ 45, "45", null, null, null, 0, null, null, "45", [ null, "40.69367233300005", "-73.9296669979999", null, false, {
+    "point" : [ -73.9296669979999, 40.69367233300005 ]
+  } ], "1122 Broadway", "http://www.mta.info/nyct/service/", "J" ]
+, [ 46, "46", null, null, null, 0, null, null, "46", [ null, "40.76029733300004", "-73.9835669979999", null, false, {
+    "point" : [ -73.9835669979999, 40.76029733300004 ]
+  } ], "729 7 Avenue (Uptown Only)", "http://www.mta.info/nyct/service/", "N-Q-R" ]
+, [ 47, "47", null, null, null, 0, null, null, "47", [ null, "40.75028333400007", "-73.99065000099995", null, false, {
+    "point" : [ -73.99065000099995, 40.75028333400007 ]
+  } ], "421 7 Avenue", "http://www.mta.info/nyct/service/", "1-2-3" ]
+, [ 48, "48", null, null, null, 0, null, null, "48", [ null, "40.749656334000065", "-73.99112999999994", null, false, {
+    "point" : [ -73.99112999999994, 40.749656334000065 ]
+  } ], "401 7 Avenue", "http://www.mta.info/nyct/service/", "1-2-3" ]
+, [ 49, "49", null, null, null, 0, null, null, "49", [ null, "40.705471439000064", "-73.95054470499991", null, false, {
+    "point" : [ -73.95054470499991, 40.705471439000064 ]
+  } ], "502 Broadway", "http://www.mta.info/nyct/service/", "G" ]
+, [ 50, "50", null, null, null, 0, null, null, "50", [ null, "40.71069233500003", "-74.00842799899993", null, false, {
+    "point" : [ -74.00842799899993, 40.71069233500003 ]
+  } ], "2 Ann Street", "http://www.mta.info/nyct/service/", "2-3-4-5-A-C-J-Z" ]
+, [ 51, "51", null, null, null, 0, null, null, "51", [ null, "40.750313334000055", "-73.99085399799992", null, false, {
+    "point" : [ -73.99085399799992, 40.750313334000055 ]
+  } ], "421 7 Avenue", "http://www.mta.info/nyct/service/", "1-2-3" ]
+, [ 52, "52", null, null, null, 0, null, null, "52", [ null, "40.69343233300009", "-73.85243999699992", null, false, {
+    "point" : [ -73.85243999699992, 40.69343233300009 ]
+  } ], "92-20 Jamaica Avenue", "http://www.mta.info/nyct/service/", "J-Z" ]
+, [ 53, "53", null, null, null, 0, null, null, "53", [ null, "40.80776733500005", "-73.91931400099992", null, false, {
+    "point" : [ -73.91931400099992, 40.80776733500005 ]
+  } ], "235 Brook Avenue (To Manhattan Only)", "http://www.mta.info/nyct/service/", "6" ]
+, [ 54, "54", null, null, null, 0, null, null, "54", [ null, "40.62614515300004", "-73.97603746599992", null, false, {
+    "point" : [ -73.97603746599992, 40.62614515300004 ]
+  } ], "101 Avenue I", "http://www.mta.info/nyct/service/", "F" ]
+, [ 55, "55", null, null, null, 0, null, null, "55", [ null, "40.64271533400006", "-73.97924000099994", null, false, {
+    "point" : [ -73.97924000099994, 40.64271533400006 ]
+  } ], "102 Beverly Road", "http://www.mta.info/nyct/service/", "F" ]
+, [ 56, "56", null, null, null, 0, null, null, "56", [ null, "40.760422334000054", "-73.97614599999991", null, false, {
+    "point" : [ -73.97614599999991, 40.760422334000054 ]
+  } ], "656 5 Avenue", "http://www.mta.info/nyct/service/", "E-M" ]
+, [ 57, "57", null, null, null, 0, null, null, "57", [ null, "40.679777895000086", "-73.94135896299991", null, false, {
+    "point" : [ -73.94135896299991, 40.679777895000086 ]
+  } ], "1490 Fulton Street (To Queens Only)", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 58, "58", null, null, null, 0, null, null, "58", [ null, "40.747036334000086", "-73.99313799799995", null, false, {
+    "point" : [ -73.99313799799995, 40.747036334000086 ]
+  } ], "311 7 Avenue (Uptown Only)", "http://www.mta.info/nyct/service/", "1-2" ]
+, [ 59, "59", null, null, null, 0, null, null, "59", [ null, "40.51783269400005", "-74.23900680299994", null, false, {
+    "point" : [ -74.23900680299994, 40.51783269400005 ]
+  } ], "Nassau Pl & Averill Pl At Sw Corner", "http://www.mta.info/nyct/service/", "@" ]
+, [ 60, "60", null, null, null, 0, null, null, "60", [ null, "40.64472488000007", "-74.07671914899993", null, false, {
+    "point" : [ -74.07671914899993, 40.64472488000007 ]
+  } ], "75 Richmond Terrace", "http://www.mta.info/nyct/service/", "@" ]
+, [ 61, "61", null, null, null, 0, null, null, "61", [ null, "40.70858933400007", "-73.95800999799991", null, false, {
+    "point" : [ -73.95800999799991, 40.70858933400007 ]
+  } ], "295 Broadway (To Manhattan Only)", "http://www.mta.info/nyct/service/", "J-M-Z" ]
+, [ 62, "62", null, null, null, 0, null, null, "62", [ null, "40.72558333500007", "-74.0037470019999", null, false, {
+    "point" : [ -74.0037470019999, 40.72558333500007 ]
+  } ], "166 6 Avenue", "http://www.mta.info/nyct/service/", "A-C-E" ]
+, [ 63, "63", null, null, null, 0, null, null, "63", [ null, "40.70283633200006", "-73.9074809999999", null, false, {
+    "point" : [ -73.9074809999999, 40.70283633200006 ]
+  } ], "701 Seneca Avenue", "http://www.mta.info/nyct/service/", "M" ]
+, [ 64, "64", null, null, null, 0, null, null, "64", [ null, "40.74781733400005", "-73.8838289979999", null, false, {
+    "point" : [ -73.8838289979999, 40.74781733400005 ]
+  } ], "82-01 Roosevelt Avenue", "http://www.mta.info/nyct/service/", "7" ]
+, [ 65, "65", null, null, null, 0, null, null, "65", [ null, "40.706799954000076", "-74.0088788189999", null, false, {
+    "point" : [ -74.0088788189999, 40.706799954000076 ]
+  } ], "47 Pine Street", "http://www.mta.info/nyct/service/", "2-3" ]
+, [ 66, "66", null, null, null, 0, null, null, "66", [ null, "40.81655333200007", "-73.89623400099993", null, false, {
+    "point" : [ -73.89623400099993, 40.81655333200007 ]
+  } ], "1025 Longwood Avenue (To Manhattan Only)", "http://www.mta.info/nyct/service/", "6" ]
+, [ 67, "67", null, null, null, 0, null, null, "67", [ null, "40.69002502600006", "-73.9516544029999", null, false, {
+    "point" : [ -73.9516544029999, 40.69002502600006 ]
+  } ], "573 Lafayette Avenue", "http://www.mta.info/nyct/service/", "G" ]
+, [ 68, "68", null, null, null, 0, null, null, "68", [ null, "40.78089533200006", "-73.97291800099993", null, false, {
+    "point" : [ -73.97291800099993, 40.78089533200006 ]
+  } ], "180 Central Park West", "http://www.mta.info/nyct/service/", "A-C-B" ]
+, [ 69, "69", null, null, null, 0, null, null, "69", [ null, "40.86575833300009", "-73.92726599999992", null, false, {
+    "point" : [ -73.92726599999992, 40.86575833300009 ]
+  } ], "4761 Broadway", "http://www.mta.info/nyct/service/", "A" ]
+, [ 70, "70", null, null, null, 0, null, null, "70", [ null, "40.751698332000046", "-73.85601699999995", null, false, {
+    "point" : [ -73.85601699999995, 40.751698332000046 ]
+  } ], "39-16 111 Street", "http://www.mta.info/nyct/service/", "7" ]
+, [ 71, "71", null, null, null, 0, null, null, "71", [ null, "40.71947133200007", "-74.00161699999995", null, false, {
+    "point" : [ -74.00161699999995, 40.71947133200007 ]
+  } ], "418 Broadway", "http://www.mta.info/nyct/service/", "4-6-6 Express-J-Z-N-Q-R" ]
+, [ 72, "72", null, null, null, 0, null, null, "72", [ null, "40.66085870200004", "-73.96204895799991", null, false, {
+    "point" : [ -73.96204895799991, 40.66085870200004 ]
+  } ], "462 Flatbush Avenue (Enter From Lincoln Rd)", "http://www.mta.info/nyct/service/", "B-Q-S" ]
+, [ 73, "73", null, null, null, 0, null, null, "73", [ null, "40.766452333000075", "-73.9828149999999", null, false, {
+    "point" : [ -73.9828149999999, 40.766452333000075 ]
+  } ], "956 8 Avenue", "http://www.mta.info/nyct/service/", "1-2-A-C-B-D" ]
+, [ 74, "74", null, null, null, 0, null, null, "74", [ null, "40.68318133300005", "-73.91127400099992", null, false, {
+    "point" : [ -73.91127400099992, 40.68318133300005 ]
+  } ], "1720 Broadway", "http://www.mta.info/nyct/service/", "J-Z" ]
+, [ 75, "75", null, null, null, 0, null, null, "75", [ null, "40.68338859000005", "-73.9670950819999", null, false, {
+    "point" : [ -73.9670950819999, 40.68338859000005 ]
+  } ], "856 Fulton Street (To Queens Only)", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 76, "76", null, null, null, 0, null, null, "76", [ null, "40.749143332000074", "-73.93797900099992", null, false, {
+    "point" : [ -73.93797900099992, 40.749143332000074 ]
+  } ], "42-01 28 Street", "http://www.mta.info/nyct/service/", "E-M-R" ]
+, [ 77, "77", null, null, null, 0, null, null, "77", [ null, "40.67805433500007", "-73.91063400099995", null, false, {
+    "point" : [ -73.91063400099995, 40.67805433500007 ]
+  } ], "2154 Fulton Street", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 78, "78", null, null, null, 0, null, null, "78", [ null, "40.71269933500008", "-74.00409900099993", null, false, {
+    "point" : [ -74.00409900099993, 40.71269933500008 ]
+  } ], "1 Centre Street", "http://www.mta.info/nyct/service/", "4-5-6-6 Express-J-Z" ]
+, [ 79, "79", null, null, null, 0, null, null, "79", [ null, "40.72371533200004", "-73.95059199999992", null, false, {
+    "point" : [ -73.95059199999992, 40.72371533200004 ]
+  } ], "626 Manhattan Avenue", "http://www.mta.info/nyct/service/", "G" ]
+, [ 80, "80", null, null, null, 0, null, null, "80", [ null, "40.68876323300009", "-73.96014953499991", null, false, {
+    "point" : [ -73.96014953499991, 40.68876323300009 ]
+  } ], "344 Classon Avenue", "http://www.mta.info/nyct/service/", "G" ]
+, [ 81, "81", null, null, null, 0, null, null, "81", [ null, "40.754069332000086", "-73.94213200099995", null, false, {
+    "point" : [ -73.94213200099995, 40.754069332000086 ]
+  } ], "40-33 21 Street", "http://www.mta.info/nyct/service/", "F" ]
+, [ 82, "82", null, null, null, 0, null, null, "82", [ null, "40.76870133300008", "-73.98171700099994", null, false, {
+    "point" : [ -73.98171700099994, 40.76870133300008 ]
+  } ], "1824 Broadway", "http://www.mta.info/nyct/service/", "1-2-A-C-B-D" ]
+, [ 83, "83", null, null, null, 0, null, null, "83", [ null, "40.69397933200008", "-73.94907999999992", null, false, {
+    "point" : [ -73.94907999999992, 40.69397933200008 ]
+  } ], "602 Marcy Avenue", "http://www.mta.info/nyct/service/", "G" ]
+, [ 84, "84", null, null, null, 0, null, null, "84", [ null, "40.762641332000044", "-73.96763699899992", null, false, {
+    "point" : [ -73.96763699899992, 40.762641332000044 ]
+  } ], "131 East 60 Street", "http://www.mta.info/nyct/service/", "4-5-6-6 Express-N-Q-R" ]
+, [ 85, "85", null, null, null, 0, null, null, "85", [ null, "40.63303461700008", "-73.94750633299992", null, false, {
+    "point" : [ -73.94750633299992, 40.63303461700008 ]
+  } ], "2137 Nostrand Avenue", "http://www.mta.info/nyct/service/", "2-5" ]
+, [ 86, "86", null, null, null, 0, null, null, "86", [ null, "40.68067533400006", "-73.97476299899995", null, false, {
+    "point" : [ -73.97476299899995, 40.68067533400006 ]
+  } ], "70 6 Avenue (To Manhattan Only)", "http://www.mta.info/nyct/service/", "2-3-4" ]
+, [ 87, "87", null, null, null, 0, null, null, "87", [ null, "40.63325133400008", "-73.94792800099992", null, false, {
+    "point" : [ -73.94792800099992, 40.63325133400008 ]
+  } ], "Nostrand Ave & Flatbush Ave At Nw Corner", "http://www.mta.info/nyct/service/", "2-5" ]
+, [ 88, "88", null, null, null, 0, null, null, "88", [ null, "40.63285833300006", "-73.94750599999992", null, false, {
+    "point" : [ -73.94750599999992, 40.63285833300006 ]
+  } ], "Nostrand Ave & Flatbush Ave At Ne Corner", "http://www.mta.info/nyct/service/", "2-5" ]
+, [ 89, "89", null, null, null, 0, null, null, "89", [ null, "40.65066333400006", "-73.94941600199991", null, false, {
+    "point" : [ -73.94941600199991, 40.65066333400006 ]
+  } ], "Nostrand Ave & Church Ave At Se Corner (To Manhattan Only)", "http://www.mta.info/nyct/service/", "2-5" ]
+, [ 90, "90", null, null, null, 0, null, null, "90", [ null, "40.66812833400007", "-73.95047399899994", null, false, {
+    "point" : [ -73.95047399899994, 40.66812833400007 ]
+  } ], "Nostrand Ave & President St At Ne Corner", "http://www.mta.info/nyct/service/", "2-5" ]
+, [ 91, "91", null, null, null, 0, null, null, "91", [ null, "40.66980433300006", "-73.95038899899993", null, false, {
+    "point" : [ -73.95038899899993, 40.66980433300006 ]
+  } ], "Nostrand Ave & Eastern Pkwy At Se Corner", "http://www.mta.info/nyct/service/", "3-4" ]
+, [ 92, "92", null, null, null, 0, null, null, "92", [ null, "40.695439332000035", "-73.94942299899992", null, false, {
+    "point" : [ -73.94942299899992, 40.695439332000035 ]
+  } ], "Marcy Ave & Myrtle Ave At Nw Corner", "http://www.mta.info/nyct/service/", "G" ]
+, [ 93, "93", null, null, null, 0, null, null, "93", [ null, "40.66902733200004", "-73.93378899699991", null, false, {
+    "point" : [ -73.93378899699991, 40.66902733200004 ]
+  } ], "Schenectady Ave & Eastern Pkwy At Ne Corner", "http://www.mta.info/nyct/service/", "3-4" ]
+, [ 94, "94", null, null, null, 0, null, null, "94", [ null, "40.66868046900004", "-73.93102884299992", null, false, {
+    "point" : [ -73.93102884299992, 40.66868046900004 ]
+  } ], "Utica Ave & Eastern Pkwy At Se Corner", "http://www.mta.info/nyct/service/", "3-4" ]
+, [ 95, "95", null, null, null, 0, null, null, "95", [ null, "40.69685193400005", "-73.93545257799991", null, false, {
+    "point" : [ -73.93545257799991, 40.69685193400005 ]
+  } ], "Broadway & Myrtle Ave At Nw Corner", "http://www.mta.info/nyct/service/", "J-Z" ]
+, [ 96, "96", null, null, null, 0, null, null, "96", [ null, "40.71771933300005", "-73.95768699899992", null, false, {
+    "point" : [ -73.95768699899992, 40.71771933300005 ]
+  } ], "Bedford Ave & N 7th St At Se Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 97, "97", null, null, null, 0, null, null, "97", [ null, "40.69996633200009", "-73.94991299999992", null, false, {
+    "point" : [ -73.94991299999992, 40.69996633200009 ]
+  } ], "Union Ave & Flushing Ave At Ne Corner (To Queens Only)", "http://www.mta.info/nyct/service/", "G" ]
+, [ 98, "98", null, null, null, 0, null, null, "98", [ null, "40.70662733200004", "-73.95234399799995", null, false, {
+    "point" : [ -73.95234399799995, 40.70662733200004 ]
+  } ], "Hewes St & Broadway At Ne Corner", "http://www.mta.info/nyct/service/", "J-M" ]
+, [ 99, "99", null, null, null, 0, null, null, "99", [ null, "40.713768334000065", "-73.95144499799994", null, false, {
+    "point" : [ -73.95144499799994, 40.713768334000065 ]
+  } ], "Union Ave & Metropolitan Ave At Se Corner", "http://www.mta.info/nyct/service/", "G-L" ]
+, [ 100, "100", null, null, null, 0, null, null, "100", [ null, "40.703313334000086", "-73.94668799899995", null, false, {
+    "point" : [ -73.94668799899995, 40.703313334000086 ]
+  } ], "Lorimer St & Broadway At Sw Corner", "http://www.mta.info/nyct/service/", "J-M" ]
+, [ 101, "101", null, null, null, 0, null, null, "101", [ null, "40.70059523000003", "-73.9422351469999", null, false, {
+    "point" : [ -73.9422351469999, 40.70059523000003 ]
+  } ], "Flushing Ave & Broadway At Se Corner", "http://www.mta.info/nyct/service/", "J-M" ]
+, [ 102, "102", null, null, null, 0, null, null, "102", [ null, "40.72547833300007", "-73.95190599999995", null, false, {
+    "point" : [ -73.95190599999995, 40.72547833300007 ]
+  } ], "Manhattan Ave & Norman Ave At Nw Corner", "http://www.mta.info/nyct/service/", "G" ]
+, [ 103, "103", null, null, null, 0, null, null, "103", [ null, "40.723810332000085", "-73.9509280019999", null, false, {
+    "point" : [ -73.9509280019999, 40.723810332000085 ]
+  } ], "Manhattan Ave & Nassau Ave At Nw Corner", "http://www.mta.info/nyct/service/", "G" ]
+, [ 104, "104", null, null, null, 0, null, null, "104", [ null, "40.71444933400005", "-73.9442479999999", null, false, {
+    "point" : [ -73.9442479999999, 40.71444933400005 ]
+  } ], "Graham Ave & Metropolitan Ave At Se Corner (To Canarsie Only)", "http://www.mta.info/nyct/service/", "L" ]
+, [ 105, "105", null, null, null, 0, null, null, "105", [ null, "40.712035332000085", "-73.9408919999999", null, false, {
+    "point" : [ -73.9408919999999, 40.712035332000085 ]
+  } ], "Grand St & Bushwick Ave At Ne Corner (To Canarsie Only)", "http://www.mta.info/nyct/service/", "L" ]
+, [ 106, "106", null, null, null, 0, null, null, "106", [ null, "40.70623433500003", "-73.93198899899994", null, false, {
+    "point" : [ -73.93198899899994, 40.70623433500003 ]
+  } ], "Morgan Ave & Harrison Pl At Sw Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 107, "107", null, null, null, 0, null, null, "107", [ null, "40.73227033400008", "-73.95441499899994", null, false, {
+    "point" : [ -73.95441499899994, 40.73227033400008 ]
+  } ], "Manhattan Ave & India St At Se Corner", "http://www.mta.info/nyct/service/", "G" ]
+, [ 108, "108", null, null, null, 0, null, null, "108", [ null, "40.66493233400007", "-73.92266300099993", null, false, {
+    "point" : [ -73.92266300099993, 40.66493233400007 ]
+  } ], "Rutland Rd & E. 98th St At Ne Corner", "http://www.mta.info/nyct/service/", "3-4" ]
+, [ 109, "109", null, null, null, 0, null, null, "109", [ null, "40.66167533400005", "-73.91534499799991", null, false, {
+    "point" : [ -73.91534499799991, 40.66167533400005 ]
+  } ], "Saratoga Ave & Livonia Ave At Ne Corner", "http://www.mta.info/nyct/service/", "3-4" ]
+, [ 110, "110", null, null, null, 0, null, null, "110", [ null, "40.645545334000076", "-73.90249800099991", null, false, {
+    "point" : [ -73.90249800099991, 40.645545334000076 ]
+  } ], "Glenwood Rd & Rockaway Pkwy At Nw Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 111, "111", null, null, null, 0, null, null, "111", [ null, "40.678714297000056", "-73.92151693099993", null, false, {
+    "point" : [ -73.92151693099993, 40.678714297000056 ]
+  } ], "Ralph Ave & Fulton St At Se Corner", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 112, "112", null, null, null, 0, null, null, "112", [ null, "40.67859262400009", "-73.91376868299994", null, false, {
+    "point" : [ -73.91376868299994, 40.67859262400009 ]
+  } ], "Hopkinson Ave & Fulton St At Nw Corner", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 113, "113", null, null, null, 0, null, null, "113", [ null, "40.68906833200003", "-73.92156499999993", null, false, {
+    "point" : [ -73.92156499999993, 40.68906833200003 ]
+  } ], "Palmetto St & Broadway At Sw Corner", "http://www.mta.info/nyct/service/", "J-Z" ]
+, [ 114, "114", null, null, null, 0, null, null, "114", [ null, "40.68693333300007", "-73.91729499999991", null, false, {
+    "point" : [ -73.91729499999991, 40.68693333300007 ]
+  } ], "Jefferson Ave & Broadway At Ne Corner", "http://www.mta.info/nyct/service/", "J" ]
+, [ 115, "115", null, null, null, 0, null, null, "115", [ null, "40.69014133200005", "-73.9229479999999", null, false, {
+    "point" : [ -73.9229479999999, 40.69014133200005 ]
+  } ], "Linden St & Broadway At Nw Corner", "http://www.mta.info/nyct/service/", "J-Z" ]
+, [ 116, "116", null, null, null, 0, null, null, "116", [ null, "40.67569802600008", "-73.90280546699995", null, false, {
+    "point" : [ -73.90280546699995, 40.67569802600008 ]
+  } ], "Snediker Ave & New York Ave At Sw Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 117, "117", null, null, null, 0, null, null, "117", [ null, "40.676769334000085", "-73.89958599899995", null, false, {
+    "point" : [ -73.89958599899995, 40.676769334000085 ]
+  } ], "Alabama Av & Fulton St At Se Corner", "http://www.mta.info/nyct/service/", "J" ]
+, [ 118, "118", null, null, null, 0, null, null, "118", [ null, "40.67423933200007", "-73.89666899999992", null, false, {
+    "point" : [ -73.89666899999992, 40.67423933200007 ]
+  } ], "Pennsylvania Ave & Liberty Ave At Sw Corner", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 119, "119", null, null, null, 0, null, null, "119", [ null, "40.68878759900008", "-73.90467903799993", null, false, {
+    "point" : [ -73.90467903799993, 40.68878759900008 ]
+  } ], "Lirr Bay Ridge Divide & Wilson Ave At Nw Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 120, "120", null, null, null, 0, null, null, "120", [ null, "40.67250633400005", "-73.89015299999994", null, false, {
+    "point" : [ -73.89015299999994, 40.67250633400005 ]
+  } ], "Van Siclen Ave & Pitkin Ave At Se Corner", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 121, "121", null, null, null, 0, null, null, "121", [ null, "40.66628133200004", "-73.88328999599992", null, false, {
+    "point" : [ -73.88328999599992, 40.66628133200004 ]
+  } ], "Ashford St & Livonia Av At Sw Corner", "http://www.mta.info/nyct/service/", "3-4" ]
+, [ 122, "122", null, null, null, 0, null, null, "122", [ null, "40.674001332000046", "-73.88066499699994", null, false, {
+    "point" : [ -73.88066499699994, 40.674001332000046 ]
+  } ], "Shepherd Ave & Pitkin Ave At Se Corner", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 123, "123", null, null, null, 0, null, null, "123", [ null, "40.675268333000076", "-73.87208699699994", null, false, {
+    "point" : [ -73.87208699699994, 40.675268333000076 ]
+  } ], "Euclid Ave & Pitkin Ave At Sw Corner", "http://www.mta.info/nyct/service/", "A-C-S" ]
+, [ 124, "124", null, null, null, 0, null, null, "124", [ null, "40.67548833400008", "-73.87208599799993", null, false, {
+    "point" : [ -73.87208599799993, 40.67548833400008 ]
+  } ], "Euclid Ave & Pitkin Ave At Nw Corner", "http://www.mta.info/nyct/service/", "A-C-S" ]
+, [ 125, "125", null, null, null, 0, null, null, "125", [ null, "40.70601433300004", "-73.92211899999995", null, false, {
+    "point" : [ -73.92211899999995, 40.70601433300004 ]
+  } ], "Starr St & Wyckoff Ave At Se Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 126, "126", null, null, null, 0, null, null, "126", [ null, "40.70415333200009", "-73.91927299999992", null, false, {
+    "point" : [ -73.91927299999992, 40.70415333200009 ]
+  } ], "Dekalb Ave & Wycoff Ave At Se Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 127, "127", null, null, null, 0, null, null, "127", [ null, "40.703342332000034", "-73.91795899999994", null, false, {
+    "point" : [ -73.91795899999994, 40.703342332000034 ]
+  } ], "Stanhope St & Wycoff Ave At Sw Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 128, "128", null, null, null, 0, null, null, "128", [ null, "40.703461332000074", "-73.91760599899993", null, false, {
+    "point" : [ -73.91760599899993, 40.703461332000074 ]
+  } ], "Stanhope St & Wycoff Ave At Ne Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 129, "129", null, null, null, 0, null, null, "129", [ null, "40.70724233400006", "-73.92372300099993", null, false, {
+    "point" : [ -73.92372300099993, 40.70724233400006 ]
+  } ], "Jefferson St & Wyckoff Ave At Nw Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 130, "130", null, null, null, 0, null, null, "130", [ null, "40.70621633400009", "-73.92193099799994", null, false, {
+    "point" : [ -73.92193099799994, 40.70621633400009 ]
+  } ], "Starr St & Wyckoff Ave At Ne Corner", "http://www.mta.info/nyct/service/", "L" ]
+, [ 131, "131", null, null, null, 0, null, null, "131", [ null, "40.704816332000064", "-73.90220799999992", null, false, {
+    "point" : [ -73.90220799999992, 40.704816332000064 ]
+  } ], "Forest Ave & Myrtle Ave At Nw Corner", "http://www.mta.info/nyct/service/", "M" ]
+, [ 132, "132", null, null, null, 0, null, null, "132", [ null, "40.706115381000075", "-73.89555909899991", null, false, {
+    "point" : [ -73.89555909899991, 40.706115381000075 ]
+  } ], "62nd St & 67th Ave At Se Corner", "http://www.mta.info/nyct/service/", "M" ]
+, [ 133, "133", null, null, null, 0, null, null, "133", [ null, "40.74294533400007", "-73.88270099899995", null, false, {
+    "point" : [ -73.88270099899995, 40.74294533400007 ]
+  } ], "Britton Ave & Broadway At Nw Corner", "http://www.mta.info/nyct/service/", "E-M-R" ]
+, [ 134, "134", null, null, null, 0, null, null, "134", [ null, "40.75482789600005", "-73.84580039399992", null, false, {
+    "point" : [ -73.84580039399992, 40.75482789600005 ]
+  } ], "126th St & Roosevelt Ave At Nw Corner", "http://www.mta.info/nyct/service/", "7-7 Express" ]
+, [ 135, "135", null, null, null, 0, null, null, "135", [ null, "40.754236983000055", "-73.84601379299994", null, false, {
+    "point" : [ -73.84601379299994, 40.754236983000055 ]
+  } ], "126th St & Roosevelt Ave At Sw Corner", "http://www.mta.info/nyct/service/", "7-7 Express" ]
+, [ 136, "136", null, null, null, 0, null, null, "136", [ null, "40.72932524500004", "-73.85955372799992", null, false, {
+    "point" : [ -73.85955372799992, 40.72932524500004 ]
+  } ], "64th Rd & Queens Blvd At Nw Corner", "http://www.mta.info/nyct/service/", "E-M-R" ]
+, [ 137, "137", null, null, null, 0, null, null, "137", [ null, "40.69147144300007", "-73.86659543499991", null, false, {
+    "point" : [ -73.86659543499991, 40.69147144300007 ]
+  } ], "75th St & Jamaica At Nw Corner", "http://www.mta.info/nyct/service/", "J-Z" ]
+, [ 138, "138", null, null, null, 0, null, null, "138", [ null, "40.695268629000054", "-73.84329542799992", null, false, {
+    "point" : [ -73.84329542799992, 40.695268629000054 ]
+  } ], "104th St & Jamaica Ave At Ne Corner", "http://www.mta.info/nyct/service/", "J-Z" ]
+, [ 139, "139", null, null, null, 0, null, null, "139", [ null, "40.701204447000066", "-73.81641338299994", null, false, {
+    "point" : [ -73.81641338299994, 40.701204447000066 ]
+  } ], "Van Wyck Expwy & 89th Ave At Sw Corner", "http://www.mta.info/nyct/service/", "E" ]
+, [ 140, "140", null, null, null, 0, null, null, "140", [ null, "40.700629604000085", "-73.94199501899993", null, false, {
+    "point" : [ -73.94199501899993, 40.700629604000085 ]
+  } ], "Flushing Ave & Broadway At Se Corner", "http://www.mta.info/nyct/service/", "J-M" ]
+, [ 141, "141", null, null, null, 0, null, null, "141", [ null, "40.69571257200005", "-73.90526431399991", null, false, {
+    "point" : [ -73.90526431399991, 40.69571257200005 ]
+  } ], "Halsey St & Wycoff Ave At Sw Corner (To Canarsie Only)", "http://www.mta.info/nyct/service/", "L" ]
+, [ 142, "142", null, null, null, 0, null, null, "142", [ null, "40.679487100000074", "-73.9297254889999", null, false, {
+    "point" : [ -73.9297254889999, 40.679487100000074 ]
+  } ], "Utica Ave & Fulton St At Nw Corner", "http://www.mta.info/nyct/service/", "A-C" ]
+, [ 143, "143", null, null, null, 0, null, null, "143", [ null, "40.68835812600008", "-73.96567000999994", null, false, {
+    "point" : [ -73.96567000999994, 40.68835812600008 ]
+  } ], "Washington Ave & Lafayette Ave At Ne Corner", "http://www.mta.info/nyct/service/", "G" ]
+, [ 144, "144", null, null, null, 0, null, null, "144", [ null, "40.687833512000054", "-73.96788613099994", null, false, {
+    "point" : [ -73.96788613099994, 40.687833512000054 ]
+  } ], "Clinton Ave & Lafayette Ave At Sw Corner", "http://www.mta.info/nyct/service/", "G" ]
+, [ 145, "145", null, null, null, 0, null, null, "145", [ null, "40.68933096400008", "-73.95496904099991", null, false, {
+    "point" : [ -73.95496904099991, 40.68933096400008 ]
+  } ], "Bedford Ave & Lafayette Ave At Se Corner", "http://www.mta.info/nyct/service/", "G" ]
+, [ 146, "146", null, null, null, 0, null, null, "146", [ null, "40.68955302900008", "-73.95528961399992", null, false, {
+    "point" : [ -73.95528961399992, 40.68955302900008 ]
+  } ], "Bedford Ave & Lafayette Ave At Nw Corner", "http://www.mta.info/nyct/service/", "G" ]
+, [ 147, "147", null, null, null, 0, null, null, "147", [ null, "40.66866470100007", "-73.93072282199995", null, false, {
+    "point" : [ -73.93072282199995, 40.66866470100007 ]
+  } ], "Utica Ave & Eastern Pkwy At Se Corner", "http://www.mta.info/nyct/service/", "3-4" ]
+, [ 148, "148", null, null, null, 0, null, null, "148", [ null, "40.65145808200003", "-73.96283995999994", null, false, {
+    "point" : [ -73.96283995999994, 40.65145808200003 ]
+  } ], "St. Pauls Pl & Caton Ave At Se Corner", "http://www.mta.info/nyct/service/", "B-Q" ]
+, [ 149, "149", null, null, null, 0, null, null, "149", [ null, "40.57549884900004", "-73.97699869599995", null, false, {
+    "point" : [ -73.97699869599995, 40.57549884900004 ]
+  } ], "8th St & Surf Ave At Nw Corner", "http://www.mta.info/nyct/service/", "F-Q" ]
+, [ 150, "150", null, null, null, 0, null, null, "150", [ null, "40.66985070800007", "-73.98947403199992", null, false, {
+    "point" : [ -73.98947403199992, 40.66985070800007 ]
+  } ], "4th Ave & 10th St At Nw Corner", "http://www.mta.info/nyct/service/", "D-F-G-N-R" ]
+, [ 151, "151", null, null, null, 0, null, null, "151", [ null, "40.62452814100004", "-73.97615660799994", null, false, {
+    "point" : [ -73.97615660799994, 40.62452814100004 ]
+  } ], "Mcdonald Ave & Avenue J At Nw Corner", "http://www.mta.info/nyct/service/", "F" ]
+, [ 152, "152", null, null, null, 0, null, null, "152", [ null, "40.51321562800007", "-74.25096683699991", null, false, {
+    "point" : [ -74.25096683699991, 40.51321562800007 ]
+  } ], "Main St & Utah St At Nw Corner", "http://www.mta.info/nyct/service/", "@" ]
+, [ 153, "153", null, null, null, 0, null, null, "153", [ null, "40.51538867600004", "-74.24543268999992", null, false, {
+    "point" : [ -74.24543268999992, 40.51538867600004 ]
+  } ], "Tracy Av & Arthur Kill Rd At Nw Corner", "http://www.mta.info/nyct/service/", "@" ]
+, [ 154, "154", null, null, null, 0, null, null, "154", [ null, "40.748547332000044", "-73.87657599699992", null, false, {
+    "point" : [ -73.87657599699992, 40.748547332000044 ]
+  } ], "90th St & Roosevelt Ave At Nw Corner", "http://www.mta.info/nyct/service/", "7" ]
+, [ 155, "155", null, null, null, 0, null, null, "155", [ null, "40.73333033200004", "-73.87097299999994", null, false, {
+    "point" : [ -73.87097299999994, 40.73333033200004 ]
+  } ], "Woodhaven Blvd & Queens Blvd At Sw Corner", "http://www.mta.info/nyct/service/", "E-M-R" ]
+, [ 156, "156", null, null, null, 0, null, null, "156", [ null, "40.73321333300004", "-73.86873299799993", null, false, {
+    "point" : [ -73.86873299799993, 40.73321333300004 ]
+  } ], "Horace Harding Expwy & Queens Blvd At Ne Corner", "http://www.mta.info/nyct/service/", "E-M-R" ]
+, [ 157, "157", null, null, null, 0, null, null, "157", [ null, "40.749777333000054", "-73.86230299899995", null, false, {
+    "point" : [ -73.86230299899995, 40.749777333000054 ]
+  } ], "103rd St & Roosevelt Ave At Se Corner", "http://www.mta.info/nyct/service/", "7" ]
+, [ 158, "158", null, null, null, 0, null, null, "158", [ null, "40.72659533400008", "-73.85349199899991", null, false, {
+    "point" : [ -73.85349199899991, 40.72659533400008 ]
+  } ], "67th Ave & Queens Blvd At Se Corner", "http://www.mta.info/nyct/service/", "E-M-R" ]
+, [ 159, "159", null, null, null, 0, null, null, "159", [ null, "40.72149633400005", "-73.84338199899992", null, false, {
+    "point" : [ -73.84338199899992, 40.72149633400005 ]
+  } ], "71st & Queens Blvd At Ne Corner", "http://www.mta.info/nyct/service/", "E-F-M-R" ]
+, [ 160, "160", null, null, null, 0, null, null, "160", [ null, "40.71397033400007", "-73.8313279969999", null, false, {
+    "point" : [ -73.8313279969999, 40.71397033400007 ]
+  } ], "Union Tpke & Queens Blvd At Se Corner", "http://www.mta.info/nyct/service/", "E-F" ]
+, [ 161, "161", null, null, null, 0, null, null, "161", [ null, "40.71902352900008", "-73.83798439599991", null, false, {
+    "point" : [ -73.83798439599991, 40.71902352900008 ]
+  } ], "75th & Queens Blvd At Nw Corner (To Manhattan And Brooklyn Only)", "http://www.mta.info/nyct/service/", "E-F" ]
+, [ 162, "162", null, null, null, 0, null, null, "162", [ null, "40.714928333000046", "-73.83148499999993", null, false, {
+    "point" : [ -73.83148499999993, 40.714928333000046 ]
+  } ], "Union Tpke & Queens Blvd At Nw Corner", "http://www.mta.info/nyct/service/", "E-F" ]
+, [ 163, "163", null, null, null, 0, null, null, "163", [ null, "40.759390333000056", "-73.82990999899994", null, false, {
+    "point" : [ -73.82990999899994, 40.759390333000056 ]
+  } ], "Main St & Roosevelt Ave At Se Corner", "http://www.mta.info/nyct/service/", "7-7 Express" ]
+, [ 164, "164", null, null, null, 0, null, null, "164", [ null, "40.759710333000044", "-73.82996199899992", null, false, {
+    "point" : [ -73.82996199899992, 40.759710333000044 ]
+  } ], "Main St & Roosevelt Ave At Ne Corner", "http://www.mta.info/nyct/service/", "7-7 Express" ]
+, [ 165, "165", null, null, null, 0, null, null, "165", [ null, "40.708092332000035", "-73.82009999999991", null, false, {
+    "point" : [ -73.82009999999991, 40.708092332000035 ]
+  } ], "Van Wyck Blvd & Queens Blvd At Sw Corner (To Jamaica Only)", "http://www.mta.info/nyct/service/", "E-F" ]
+, [ 166, "166", null, null, null, 0, null, null, "166", [ null, "40.70266133300004", "-73.81719099899993", null, false, {
+    "point" : [ -73.81719099899993, 40.70266133300004 ]
+  } ], "Van Wyck Expwy & Jamaica Ave At Nw Corner", "http://www.mta.info/nyct/service/", "E" ]
+, [ 167, "167", null, null, null, 0, null, null, "167", [ null, "40.70076833400009", "-73.80789400099991", null, false, {
+    "point" : [ -73.80789400099991, 40.70076833400009 ]
+  } ], "Sutphin Blvd & Archer Ave At Nw Corner", "http://www.mta.info/nyct/service/", "E-J-Z" ]
+, [ 168, "168", null, null, null, 0, null, null, "168", [ null, "40.70565033400004", "-73.80949099799994", null, false, {
+    "point" : [ -73.80949099799994, 40.70565033400004 ]
+  } ], "Sutphin Blvd & Hillside Ave At Se Corner", "http://www.mta.info/nyct/service/", "F" ]
+, [ 169, "169", null, null, null, 0, null, null, "169", [ null, "40.70709133400004", "-73.80449100099992", null, false, {
+    "point" : [ -73.80449100099992, 40.70709133400004 ]
+  } ], "153rd St & Hillside Ave At Sw Corner", "http://www.mta.info/nyct/service/", "F" ]
+, [ 170, "170", null, null, null, 0, null, null, "170", [ null, "40.70755533300007", "-73.80279599699992", null, false, {
+    "point" : [ -73.80279599699992, 40.70755533300007 ]
+  } ], "Parsons Blvd & Hillside Ave At Sw Corner", "http://www.mta.info/nyct/service/", "F" ]
+, [ 171, "171", null, null, null, 0, null, null, "171", [ null, "40.710147333000066", "-73.79491499699992", null, false, {
+    "point" : [ -73.79491499699992, 40.710147333000066 ]
+  } ], "168th St & Hillside Ave At Nw Corner", "http://www.mta.info/nyct/service/", "F" ]
+, [ 172, "172", null, null, null, 0, null, null, "172", [ null, "40.71082133200008", "-73.7932129969999", null, false, {
+    "point" : [ -73.7932129969999, 40.71082133200008 ]
+  } ], "169th St & Hillside Ave At Nw Corner", "http://www.mta.info/nyct/service/", "F" ]
+, [ 173, "173", null, null, null, 0, null, null, "173", [ null, "40.710947332000046", "-73.79294799599995", null, false, {
+    "point" : [ -73.79294799599995, 40.710947332000046 ]
+  } ], "169th St & Hillside Ave At Ne Corner", "http://www.mta.info/nyct/service/", "F" ]
+, [ 174, "174", null, null, null, 0, null, null, "174", [ null, "40.712335334000045", "-73.78450099999992", null, false, {
+    "point" : [ -73.78450099999992, 40.712335334000045 ]
+  } ], "179th St & Hillside Ave At Sw Corner", "http://www.mta.info/nyct/service/", "F" ]
+, [ 175, "175", null, null, null, 0, null, null, "175", [ null, "40.712400
