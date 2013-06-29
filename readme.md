@@ -11,7 +11,7 @@
 ## Instructions
 
 ### Get up and running
-1. fork and then clone this repo: REPO GOES HERE
+1. fork and then clone this repo: [https://github.com/ashleygwilliams/citibike-sinatra](https://github.com/ashleygwilliams/citibike-sinatra)
 2. `bundle install`
 3. `bundle exec shotgun`
 4. `localhost:9393`
@@ -105,7 +105,7 @@ so, the params are determined by the `value` attribute of the `<select>` element
 ![latlong](http://content.screencast.com/users/ag_dubs/folders/Jing/media/6283fefe-4e30-4e5b-b09c-89a3de24e330/00000050.png)
 
 ooops. this data doesn't look right. we need to fix it. look at sarah's blog post for advice on how to do this:
-SARAH'S BLOG
+[http://sarahduve.github.io/blog/2013/06/27/dont-forget-to-float/](http://sarahduve.github.io/blog/2013/06/27/dont-forget-to-float/)
 
 #### D. embed the ruby in js
 ok awesome, so now we have an array for the starting location and the ending location. the array contains the latitude and longitude for the selected station. this is rad because this is ALL we need to create markers and draw shapes and lines using the leaflet js mapping library.
